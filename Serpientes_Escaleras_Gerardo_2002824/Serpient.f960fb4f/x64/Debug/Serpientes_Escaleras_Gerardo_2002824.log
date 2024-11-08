@@ -1,0 +1,6 @@
+﻿  ColaHistorialGanadores.cpp
+  Serpientes_Escaleras_Gerardo_2002824.cpp
+C:\Users\gerar\source\repos\Serpientes_Escaleras_Gerardo_2002824\Serpientes_Escaleras_Gerardo_2002824.cpp(11,9): warning C4005: 'GREEN': redefinición de macro
+C:\Users\gerar\source\repos\Serpientes_Escaleras_Gerardo_2002824\Serpientes_Escaleras_Gerardo_2002824.cpp(15,9): warning C4005: 'YELLOW': redefinición de macro
+  Generando código...
+  Serpientes_Escaleras_Gerardo_2002824.vcxproj -> C:\Users\gerar\source\repos\Serpientes_Escaleras_Gerardo_2002824\x64\Debug\Serpientes_Escaleras_Gerardo_2002824.exe
